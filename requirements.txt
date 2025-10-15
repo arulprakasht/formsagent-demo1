@@ -1,4 +1,5 @@
 flask
+gunicorn
 flask_socketio
 python-dotenv
 azure-ai-projects
