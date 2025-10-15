@@ -3,3 +3,4 @@ flask_socketio
 python-dotenv
 azure-ai-projects
 azure-identity
+azure-identity-broker
